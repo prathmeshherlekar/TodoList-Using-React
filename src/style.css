@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: initial;
+}
+
+label{
+    width:20rem;
+    margin-bottom: 5px;
+}
+.date{
+    color: crimson;
+}
+.sm{
+    font-size:18px;
+}
+
